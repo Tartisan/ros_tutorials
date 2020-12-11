@@ -1,0 +1,16 @@
+build/
+devel/
+src/map/*/base_map/*.bin
+src/visualization/
+src/simulator/
+*.bag
+/*.bin
+.tags
+.tags_sorted_by_file
+src/CMakeLists.txt
+.catkin_workspace
+*.tar.gz 
+.vscode
+toplevel.cmake
+custom_scripts/
+
